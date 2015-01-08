@@ -1,0 +1,2 @@
+# HashSet_Chaining
+实现一个简单的存放int元素的散列集合，用拉链法来解决冲突。该散列集合的Hash函数是一个简单的取模操作。实现语言是Objective-C。
